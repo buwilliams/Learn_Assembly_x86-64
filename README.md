@@ -1,6 +1,6 @@
 # Playing in Assembly
 
-Playing with Assembly to make my inner child self happy!
+Playing with Assembly to make my inner child happy!
 
 ## References
 
